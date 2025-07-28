@@ -1,6 +1,6 @@
 # LINK
 ### 공부일지 <a href="https://github.com/jangseulchan/ai_x"><img src="https://img.shields.io/badge/공부일지-0000FF?style=for-the-badge&logo=github&logoColor=white"/></a>
-### 1st PERSONAL PROJECT <a href="https://github.com/SeohuiJeong/crew_soom"><img src="https://img.shields.io/badge/PROJ[SOOM]-FF0000?style=for-the-badge&logo=github&logoColor=white"/></a>
+### 1st PERSONAL PROJECT <a href="https://github.com/SeohuiJeong0420/crew_soom"><img src="https://img.shields.io/badge/PROJ[SOOM]-FF0000?style=for-the-badge&logo=github&logoColor=white"/></a>
 ### 2ed TEAM PROJECT <a href="https://github.com/comlec/2ndProject"><img src="https://img.shields.io/badge/TEAMPRO[미정]-33FF33?style=for-the-badge&logo=github&logoColor=black"/></a>
 
 
